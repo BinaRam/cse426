@@ -4,6 +4,8 @@ It includes the necessary smart contracts for each DApp.
 
 To demo any DApp in class, simply follow the instructions below for the respective DApp.
 
+https://binaram.github.io/cse426/
+
 ---
 
 ### 1. Deploy Smart Contract
