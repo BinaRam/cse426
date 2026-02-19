@@ -1,6 +1,6 @@
 class App {
     constructor() {
-        this.ContractAddress = "0xdE21Db61e85Cfa138B8E77Dc5630afD052d3F674";
+        this.ContractAddress = "0xbd27d0b7F9fedb5A2A2C3ceF5dC9c70f3CF64Af2";
         this.AbiLocation = "./yoda.json";
         this.ContractABI = null;
         this.signer = null;
