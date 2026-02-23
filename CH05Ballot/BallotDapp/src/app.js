@@ -1,6 +1,6 @@
     class App {
         constructor() {
-            this.ContractAddress = "0x1C2dD37091b9dF7a060f6BDEd3bf3AB8F4ed152B";
+            this.ContractAddress = "0x76AeDA49A3f014B2d72ADDeB83D46E2fD3AA9302";
             this.AbiLocation = "./Ballot.json";
             this.ContractABI = null;
             this.signer = null;
