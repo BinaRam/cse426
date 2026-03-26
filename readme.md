@@ -32,6 +32,7 @@ After deploying the smart contract, update the contract address in the frontend.
 #### For `CH08MPC`:
 - Navigate to `CH08MPC/mpcDappOrganizer/src/js/` and `CH08MPC/mpcDappWorker/src/js/`.  
 - Update the contract address in the JavaScript file `app.js`.
+- when deploying the contract load it with eth manually,
 
 ---
 
