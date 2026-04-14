@@ -1,7 +1,7 @@
 App = {
     web3: null,
     contracts: {},   
-    address:'0xA32C0f7fFf3bCC35c1d642de5eBd385ccdCa7D61',   
+    address:'0x7B824BF32316874F4107dd7202316A970e773Cd6',   
     network_id:11155111,
     url:'',
     currentAccount:'',  
